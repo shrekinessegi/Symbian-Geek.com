@@ -1,0 +1,59 @@
+/* Genel ayar */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e9f0f7;
+    color: #222;
+  }
+  
+  /* Navbar için stil */
+  .navbar {
+    background-color: #004488;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    align-items: center;
+  }
+  
+  .navbar a {
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .navbar a:hover {
+    background-color: #0077cc;
+    border-radius: 5px;
+  }
+  
+  /* Symbian Geek yazısının düzeni */
+  .site-name {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  
+  /* Banner düzeni */
+  .banner {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
+  
+  /* Ana içerik */
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Sayfa başlıkları */
+  h1 {
+    color: #333;
+  }
+  
