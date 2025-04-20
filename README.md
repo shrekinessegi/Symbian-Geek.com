@@ -9,4 +9,6 @@ The Banner and Demo (İndex Html) is ready
 Banner and design by :Kroxic
 
 Html,Css,JS by : Shrekinessegi
-
+New Update 20.04.2025 20:49
+"Welcome" Text is ready
+![0571f4b28a4016ffdb248b5381a0cb0b](https://github.com/user-attachments/assets/0fe44e86-b7fd-4453-9370-881679072be4)
